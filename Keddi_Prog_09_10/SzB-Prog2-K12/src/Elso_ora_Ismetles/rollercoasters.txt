@@ -1,0 +1,6 @@
+Shambhala;China;140;120\n
+Furius·baco;Mediterrania;140;120\n
+Dragon·Khan;China;140;80\n
+Stampida;Far·West;120;20\n
+Tami·Tami;SesamoAventura;100;20\n
+El·Diablo;Mexico;140;30\n
