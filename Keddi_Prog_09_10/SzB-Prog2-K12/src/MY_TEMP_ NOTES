@@ -1,0 +1,1 @@
+Egészítsd ki az osztály definícióját egy statikus metódussal, amely paraméterként megkap egy állatokat tartalmazó listát és egy fajnevet. A metódus adja vissza, hogy a megadott fajhoz milyen életkorú példányok tartoznak a listában.
